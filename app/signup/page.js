@@ -50,7 +50,7 @@ export default function Signup() {
 
   return (
     <div className="w-full h-screen flex">
-      {/* Left Part - Form */}
+      {/* Left Part  Form */}
       <div className="w-full lg:w-1/2 bg-white flex items-center justify-center">
         <form
           onSubmit={submit}
